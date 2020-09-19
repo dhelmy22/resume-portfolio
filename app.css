@@ -1,0 +1,45 @@
+body{
+    padding: 5px;
+}
+
+
+
+
+.sidebar{
+    width: 100%;
+    background-color: lightgrey;
+    align-content: auto;
+    height: auto;
+    color: black;
+}
+.sidebar-list{
+    width: 15%;
+    background-color: grey;
+    height: auto;
+    color: black;
+}
+header{
+    background-color: grey;
+    text-align: center;
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
+.opening{
+    position: relative;
+    padding: 2rem;
+    
+}
+.container{
+    border: black 1px solid;
+    padding: 3px;
+}
+.res-tr-th{
+    border-bottom: black 1px solid;
+    text-align: center;
+    
+}
+#one{
+    border-left: black  1px solid;
+}
