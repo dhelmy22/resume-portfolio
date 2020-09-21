@@ -29,3 +29,9 @@ footer{
 #one{
     border-left: black  1px solid;
 }
+.contact-form{
+    text-align: center;
+    width: 6rem;
+    align-items: center;
+    margin-left: 45%;
+}
