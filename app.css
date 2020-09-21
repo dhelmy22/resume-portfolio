@@ -1,23 +1,8 @@
 body{
     padding: 5px;
+    
 }
 
-
-
-
-.sidebar{
-    width: 100%;
-    background-color: lightgrey;
-    align-content: auto;
-    height: auto;
-    color: black;
-}
-.sidebar-list{
-    width: 15%;
-    background-color: grey;
-    height: auto;
-    color: black;
-}
 header{
     background-color: grey;
     text-align: center;
@@ -25,6 +10,7 @@ header{
 footer{
     background-color: grey;
     text-align: center;
+    margin-top: auto;
 }
 .opening{
     position: relative;
